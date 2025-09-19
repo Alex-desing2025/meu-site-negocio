@@ -3,8 +3,7 @@ import { ArrowRight, MapPin, TrendingUp } from "lucide-react"
 
 export function HeroSection() {
   return (
-    <section className="pt-24 pb-16 bg-gradient-to-br from-background to-muted">
-      <div className="container mx-auto px-4">
+<section className="pt-24 pb-16 bg-cover bg-center text-white" style={{ backgroundImage: "url('/images/seo-digital-connection.jpg')" }}>      <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto text-center">
           {/* Badge */}
           <div className="inline-flex items-center gap-2 bg-accent/10 text-accent px-4 py-2 rounded-full text-sm font-medium mb-6 fade-in">
