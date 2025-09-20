@@ -12,17 +12,17 @@ export function HeroSection() {
           </div>
 
           {/* Main Heading */}
-          <h1 className="text-4xl md:text-6xl font-bold text-primary mb-6 slide-up text-balance">
+           <h1 className="text-4xl md:text-6xl font-bold text-white drop-shadow-md mb-6 slide-up text-balance">
             Negócio Visível — Seu negócio em destaque no Google
           </h1>
 
           {/* Subtitle */}
-          <h2 className="text-xl md:text-2xl text-muted-foreground mb-8 slide-up text-balance">
+        <h2 className="text-xl md:text-2xl text-white drop-shadow-md mb-8 slide-up text-balance">
             Apareça no topo das buscas e transforme visibilidade online em clientes reais.
           </h2>
 
           {/* Description */}
-          <p className="text-lg text-foreground/80 mb-10 max-w-2xl mx-auto leading-relaxed slide-up">
+          <p className="text-lg text-white drop-shadow-md mb-10 max-w-2xl mx-auto leading-relaxed slide-up">
             Ajudamos empreendedores locais com negócios físicos a serem encontrados no Google Maps e nas pesquisas
             locais, atraindo mais clientes da sua região.
           </p>
