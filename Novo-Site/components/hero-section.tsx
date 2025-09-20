@@ -21,11 +21,13 @@ export function HeroSection() {
             Apareça no topo das buscas e transforme visibilidade online em clientes reais.
           </h2>
 
-          {/* Description */}
-          <p className="text-lg text-white drop-shadow-md mb-10 max-w-2xl mx-auto leading-relaxed slide-up">
-            Ajudamos empreendedores locais com negócios físicos a serem encontrados no Google Maps e nas pesquisas
-            locais, atraindo mais clientes da sua região.
-          </p>
+         {/* Description */}
+<p className="text-lg text-white drop-shadow-md mb-10 max-w-2xl mx-auto leading-relaxed slide-up">
+  <span className="bg-black/50 px-3 py-1 rounded-md">
+    Ajudamos empreendedores locais com negócios físicos a serem encontrados no Google Maps e nas pesquisas
+    locais, atraindo mais clientes da sua região.
+  </span>
+</p>
 
           {/* CTA Button */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center slide-up">
